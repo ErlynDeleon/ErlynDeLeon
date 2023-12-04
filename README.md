@@ -25,7 +25,7 @@ I am Erlyn De Leon, a passionate coder with a knack for database management. I e
 
 ## Let's Connect!
 
-- LinkedIn: **[LinkedIn Profile] (www.linkedin.com/in/erlyn-de-leon-2437362a2)**
+- LinkedIn: **www.linkedin.com/in/erlyn-de-leon-2437362a2**
 - Email: erlynqueendeleon81@gmail.com
 
 Feel free to reach out if you want to discuss coding, databases, or anything tech-related. Let's connect and collaborate!
