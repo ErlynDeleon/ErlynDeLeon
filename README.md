@@ -6,9 +6,9 @@ I am Erlyn De Leon, a passionate coder with a knack for database management. I e
 
 ## Education
 
-- **BS Information Technology**
+- **BS Computer Science**
   New Era University
-  *2021 - Present*
+  *2022 - Present*
 
 ## Certification
 
