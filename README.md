@@ -21,6 +21,7 @@
 - **[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=92F06E486430289BCAE1ABFD063FF8D72824D0BDE3D158E2F2AA6353F9B4BD9F)**
 - **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=96E7A82D2EF7657217A00EF1DFE579B16554D1F7273070C782E5E97105396BB8)**
 - **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/39abb7f30f3342ef845192285803b7c3)**
+- **[The Complete Full Stack Development Bootcamp](https://www.udemy.com/certificate/UC-504e9039-675e-43e9-a3f0-a3e9b09edd03/)**
 
 <p align="left">
 </p>
